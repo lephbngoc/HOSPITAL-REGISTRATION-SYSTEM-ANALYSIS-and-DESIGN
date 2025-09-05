@@ -24,7 +24,6 @@ This project builds a hospital appointment registration system that supports bot
 - Prototype interfaces for hospital management workflows.  
 
 ---
----
 
 ## Illustrations
 
