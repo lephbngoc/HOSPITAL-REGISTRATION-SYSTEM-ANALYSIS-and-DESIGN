@@ -24,6 +24,32 @@ This project builds a hospital appointment registration system that supports bot
 - Prototype interfaces for hospital management workflows.  
 
 ---
+---
+
+## Illustrations
+
+### ERD
+![ERD](images/erd.png)
+
+### Use Case
+![Use Case](images/use-case.jpg)
+
+### DFD – Context
+![DFD Context](images/dfd_context.jpg)
+
+### DFD – Level 0
+![DFD Level 0](images/dfd_0.jpg)
+
+### Function Decomposition (BPC)
+![BPC](images/bpc.png)
+
+### BPMN – AS-IS
+![BPMN AS-IS](images/BPMNDiagram1.png)
+
+### BPMN – TO-BE
+![BPMN TO-BE](images/BPMNDiagram2.png)
+
+---
 
 ## Business Value  
 - Digitizes hospital operations, reducing paperwork.  
