@@ -1,4 +1,4 @@
-# Hospital Appointment Registration System  
+# HOSPITAL REGISTRATION SYSTEM
 
 > **Goal:** Design a hospital appointment registration system to digitize and streamline medical processes.  
 
